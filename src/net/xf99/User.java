@@ -9,5 +9,6 @@ package net.xf99;
 public class User {
 	public static void main(String[] args) {
 		System.out.printf("11111");
+		System.out.println("qwqwqwqw");
 	}
 }
